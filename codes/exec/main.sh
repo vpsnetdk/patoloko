@@ -38,4 +38,4 @@ pid=$!
 function tittle(){
 clear;echo -e "\n";python2 <(curl -sSL https://raw.githubusercontent.com/vpsnetdk/banner/main/drowkid.py)
 }
-tittle
+
